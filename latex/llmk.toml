@@ -1,0 +1,4 @@
+source = [ "thesis.tex" ]
+
+latex = "platex"
+bibtex = "pbibtex"

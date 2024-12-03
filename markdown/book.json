@@ -1,0 +1,8 @@
+{
+    "root": "./src",
+    "title": "卒論",
+    "description": "2022年度の卒業論文",
+    "author": "名前に置き換える",
+    "language": "ja",
+    "plugins": ["mermaid-newface"]
+}

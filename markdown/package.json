@@ -1,0 +1,20 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx honkit serve",
+    "build": "npx honkit build",
+    "pdf": "npx honkit pdf src ./thesis.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^4.0.4"
+  },
+  "dependencies": {
+    "gitbook-plugin-mermaid-newface": "^4.1.0"
+  }
+}
