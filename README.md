@@ -17,7 +17,6 @@
 - 2025-02-12, 2025-02-13 卒論発表会．
 
 ## 資料
-- 論文
-  
-- ポスター
-- 発表スライド
+- [卒業論文](/latex/out/thesis.pdf)
+- [ポスター](/poster/2024ThesisPosterHayami.pdf)
+- [発表スライド](/poster/卒論プレゼン資料.pdf)
